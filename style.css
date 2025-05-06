@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(211, 209, 201);
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    height: 100%;
+}
+form{
+    align-items: center;
+    background-color: aqua;
+    width: 400px;
+    height: 400px;
+    text-align: center;
+    justify-content: center;
+    margin: auto;
+    border-radius: 5px;
+}
+form h1{
+    padding-top: 10px;
+    margin-bottom: 40px;
+}
+form input{
+    font-size: 20px;
+    margin: 20px;
+
+}
+form label{
+    font-size: large;
+    font-weight: bold;
+    padding-left: 10px;
+}
+input[type = "submit"]{
+    background-color: rgb(14, 255, 14);
+    padding: 5px;
+    width: 250px;
+    border-radius: 15px;
+}
